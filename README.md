@@ -8,7 +8,7 @@ Right now that means 11 in-house vision models for plant diagnosis built with Co
 
 Stack: Python, TypeScript, C#, PyTorch, FastAPI, llama.cpp, Qdrant, Elasticsearch, Postgres, React, Docker, Kubernetes, Terraform, Azure, OVHcloud
 
-Most of my production code lives in our self-hosted Gitea with 3,000+ commits, so what you see here are side projects. Happy to walk through code and architecture on a call.
+Most of my production code lives in our self-hosted Gitea with 7,800+ commits across our repos, so what you see here are side projects. Happy to walk through code and architecture on a call.
 
 Open to remote freelance and full-time roles.
 
